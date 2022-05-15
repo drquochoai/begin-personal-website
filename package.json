@@ -3,8 +3,7 @@
   "version": "0.0.0",
   "description": "Basic Begin personal website",
   "scripts": {
-    "start": "sandbox",
-    "test": "cross-env NODE_ENV=testing tape 'test/**/*-test.js' | tap-arc"
+    "start": "sandbox"
   },
   "devDependencies": {
     "cross-env": "^7.0.3"
